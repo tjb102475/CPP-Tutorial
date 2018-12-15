@@ -6,21 +6,21 @@ using namespace std;
 
 int main()
 {
-   cout << "Enter First Player Score" << endl;
+   cout << "Enter Player 1 Score" << endl;
    int firstScore;
    cin >> firstScore;
 
-   cout << "Enter Second Player Score" << endl;
+   cout << "Enter Player 2 Score" << endl;
    int secondScore;
    cin >> secondScore;
 
-   cout << "Enter Third Player Score" << endl;
+   cout << "Enter Player Three Score" << endl;
    int thirdScore;
    cin >> thirdScore;
 
-   cout << "First player score is:" << firstScore << endl;
-   cout << "Second player score is:" << secondScore << endl;
-   cout << "Third player score is:" << thirdScore << endl;
+   cout << "Player 1 score is:" << firstScore << endl;
+   cout << "Player 2 score is:" << secondScore << endl;
+   cout << "Player 3 score is:" << thirdScore << endl;
 
     return 0;
 }
